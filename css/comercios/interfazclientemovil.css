@@ -1,0 +1,10 @@
+.sectiontamano{
+	width: 49.5%;
+
+}
+
+@media all and (max-width:500px) {
+.sectiontamano{
+  width: 100%;
+}
+}

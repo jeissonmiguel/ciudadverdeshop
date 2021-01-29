@@ -1,0 +1,24 @@
+*{
+	box-sizing: border-box;
+	font-family: 'Pacifico', cursive;
+	background-size: 100%; 
+}
+
+.timagen
+{
+width: 350px;
+height: 200px;
+}
+.min1
+{
+width:15%;
+font-size:120%;
+padding: auto;
+}
+
+.tletra{
+width:30%;
+font-size:250%;
+padding: auto;	
+}
+
