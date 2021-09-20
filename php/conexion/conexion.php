@@ -1,26 +1,14 @@
 <?php
- $ip=$_SERVER['REMOTE_ADDR'];
- if($ip=="127.0.0.1" or "::1"){
-    
+   
     $servidor ="localhost";
     $nombreusuario="root";
-    $password="";
+    $password="80815886mysql";
     $db="ciudadverdeshop";
     $conexion = new mysqli($servidor,$nombreusuario,$password, $db);
     if($conexion->connect_error){
       // die("conexion fallida:". $conexion->connect_error);
          }
-   }else{
-
-    $servidor ="localhost";
-    $nombreusuario="id15708313_ciudadverdeshop";
-    $password="Colombia2020*-+";
-    $db="id15708313_ciudadverdeshop1";
-    $conexion = new mysqli($servidor,$nombreusuario,$password, $db);
-    if($conexion->connect_error){
-      die("conexion fallida:". $conexion->connect_error);
-    }
-   } 
+ 
 // echo "Tu dirección IP es: {$_SERVER['REMOTE_ADDR']}<hr>";
 // echo "El nombre del servidor es: {$_SERVER['SERVER_NAME']}<hr>"; 
 // echo "Vienes procedente de la página: {$_SERVER['HTTP_REFERER']}<hr>"; 
