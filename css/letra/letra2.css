@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
+
+*{
+  box-sizing: border-box;
+  font-family: 'Chela One', cursive;
+	color: white;	
+	background-size:100%;
+    font-size:100%;
+    padding: 5px;
+     
+}
+

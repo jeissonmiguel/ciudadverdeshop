@@ -1,0 +1,22 @@
+.sectiontamano{
+	width: 49.5%;
+
+}
+
+@media all and (max-width:500px) {
+.sectiontamano{
+  width: 100%;
+}
+}
+
+@media all and (max-width:500px) {
+/*.letrat1{
+  font-size: 100%;*/
+}
+}
+
+@media all and (max-width:500px) {
+/*.letrat{
+  font-size: 100%;*/
+}
+}

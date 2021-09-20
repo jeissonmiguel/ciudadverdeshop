@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
+
+*{
+  box-sizing: border-box; 
+   font-family: 'Chela One', cursive;
+  color: black; 
+  background-size:100%;
+    font-size:100%;
+}
+
+
+
+.sectiontamano{
+  width: 24%;
+
+}
+
+
+body{	
+	background-image: url("../../img/interfazusuario/ba.jpg");
+	background-repeat:repeat;
+	background-position: center;
+}
+.fondo{
+	background-image: url("../../img/plogueo/perfilci.jpeg");
+    position: relative;
+	background-repeat:no-repeat;
+	background-position: center;
+}
+
+.barra{
+  height:100px;text-overflow: ellipsis;overflow: hidden;overflow-y: auto;overflow-x: auto;word-break: break-all;
+  }

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
+
+*{
+  box-sizing: border-box;
+  font-family: 'Chela One', cursive;
+	color: black;	
+	background-size:100%;
+    font-size:100%;
+    
+     
+}
+
+
+.letrat1{
+ font-family: 'Pacifico', cursive;
+  background-size: 100%;
+  font-size:100%;
+}
+.letrat{  
+ font-family: 'Nerko One', cursive; 
+ background-size:100%;
+ font-size:100%;
+
+}
+
+.letra{
+	font-size: 150%;
+	color: white;
+	position: absolute;
+
+
+}
+
+.nuevaletra{
+	font-family: 'Chela One', cursive;
+	color: black;	
+	background-size:100%;
+    font-size:100%;
+
+
+}

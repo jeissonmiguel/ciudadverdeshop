@@ -1,0 +1,72 @@
+body{
+
+margin: 0;
+padding: 0;
+width: 100%;
+height: 100%;
+/*background-image: url("../../img/plogueo/perfilci.jpeg");
+    position: relative;
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: 10px;*/
+
+}
+
+@media screen and (max-width:930px) {
+	body{
+	background-image: url("../../img/plogueo/imagenciudad.jpeg");	
+    background-repeat:repeat;	
+	background-size: 1000px 1000px;
+}
+
+}
+
+@media screen and (min-width:930px) {
+	body{
+	background-image: url("../../img/plogueo/perfilci.jpeg");	
+    background-repeat:no-repeat;
+	background-position: center;
+	background-size: 500px;
+}
+
+}
+
+
+.trans{
+	background: transparent;
+	border-style: solid;
+	width: 100%;
+	color: white;	
+
+}
+
+::placeholder {
+  background: transparent;
+  color: white;
+  
+ 
+}
+
+
+/*.fondo{
+	
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size:auto;
+       
+	
+}*/
+
+.blanco{
+	color:white;
+
+}
+
+.radio{
+	border-radius: 10%;
+	height:100px;
+	-webkit-transform: rotate(-2deg);		
+}
+
+
+

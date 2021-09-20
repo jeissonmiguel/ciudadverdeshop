@@ -1,0 +1,48 @@
+header label {
+/*color: black;*/
+/*font-weight: bold;*/
+}
+.bordes{	
+	border-style: solid;
+    border-color: #28a745;
+
+}
+body{
+	height:635px;
+}
+
+footer li {
+color:white;
+ list-style:none;
+}
+
+/**/
+
+
+
+section{
+  background-image: url("../../img/interfazusuario/ba1.jpg");  
+  background-repeat:repeat;
+  background-position: center;
+  background-size: 330%;
+  color: black;
+  
+}
+
+
+
+body{
+  background-image: url("../../img/interfazusuario/ba.jpg");  
+  background-repeat:repeat;
+  background-position: center;
+  background-size: 100%;
+  
+}
+.ba1, header, head,body{
+  background-image: url("../../img/interfazusuario/ba.jpg");  
+  background-repeat:repeat;
+  background-position: left;
+  background-size: 150%;
+
+}
+

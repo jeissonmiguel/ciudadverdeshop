@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
+
+
+
+*{
+  box-sizing: border-box;
+  padding: 0 0 0 0;
+  margin:0 auto; 
+  font-family: 'Chela One', cursive;
+  color: black; 
+  background-size:100%;
+    font-size:100%;
+}
+
+/*.letrat1{
+ font-family: 'Pacifico', cursive;
+  background-size: 100%;
+  font-size:100%;
+}
+.letrat{  
+ font-family: 'Nerko One', cursive; 
+ background-size:100%;
+ font-size:100%;
+
+}
+
+.letra{  
+ font-family: 'Nerko One', cursive; 
+ background-size:50%;
+ font-size:20%;
+
+}*/
+
+
+
+/*1*/  
+@media screen and (max-width:600px) {
+.ajuste{
+  width: 100%;
+}
+.letra1{
+  font-size:150%;     
+     
+}
+}
+
+@media screen and (min-width:600px) {
+.ajuste{
+  width: 24%;
+}
+.letra1{
+  font-size:150%;     
+     
+}
+}
+
+.sectiontamano{
+  width: 24%;
+
+}
+
+
+
+section{
+  background-image: url("../../img/interfazusuario/ba.jpg");  
+  background-repeat:repeat;
+  background-position: center;
+ /* background-size: 330%;*/
+  padding: 0 0 0 0;
+  color: black;
+  
+}
+
+body{
+  background-image: url("../../img/interfazusuario/ba.jpg");  
+  background-repeat:repeat;
+  background-position: center;
+  /*background-size: 100%;*/
+  padding: 0 0 0 0;
+  
+}
+.ba1, header, head,body{
+  background-image: url("../../img/interfazusuario/ba.jpg");  
+  background-repeat:repeat;
+  background-position: left;
+ /* background-size: 150%;*/
+
+}
+
+.barra{
+ height:100px;text-overflow: ellipsis;overflow: hidden;overflow-y: scroll;overflow-y: auto;
+}
+
+
+
+
+

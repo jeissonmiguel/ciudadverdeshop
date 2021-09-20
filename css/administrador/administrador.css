@@ -1,0 +1,65 @@
+*{
+  box-sizing: border-box; 
+ }
+@media only screen and (max-width:1200px) {
+	body{
+	background-image: url("../../img/admin/gris.jpg");	
+    background-repeat: repeat;
+	background-position: center;
+	background-size:100% 150%;
+}
+}
+
+@media only screen and (min-width:1200px) {
+	body{
+	position: absolute;		
+	background-image: url("../../img/admin/gris.jpg");	
+    background-repeat: repeat;
+	background-position: center;
+	background-size: auto;
+}
+}
+
+.trans{
+	background: transparent;
+	border-style: solid;
+	width: 100%;
+	color: white;	
+
+}
+
+::placeholder {
+  background: transparent;
+  color: white;
+  
+ 
+}
+
+
+/*.fondo{
+
+	background-position:left;
+	background-repeat:no-repeat;
+	background-size: 150%;
+  }*/
+       
+
+.blanco{
+	color:white;
+
+}
+
+.radio{
+	border-radius: 10%;
+	height:100px;
+	-webkit-transform: rotate(-2deg);		
+}
+
+.letra{
+	font-size: 150%;
+	color: white;
+	position: absolute;
+
+
+}
+

@@ -1,0 +1,26 @@
+*{
+	box-sizing: border-box;
+	font-family: 'Chela One', cursive;
+	color: black;	
+	background-size:100%;
+    font-size:150%;
+}
+
+.timagen
+{
+width: 350px;
+height: 40px;
+}
+.min1
+{
+width:15%;
+font-size:120%;
+padding: auto;
+}
+
+.tletra{
+width:30%;
+font-size:250%;
+padding: auto;	
+}
+

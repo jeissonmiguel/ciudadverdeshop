@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
+
+*{
+  box-sizing: border-box; 
+   font-family: 'Chela One', cursive;
+  color: black; 
+  background-size:100%;
+    font-size:100%; 
+ }
+
+/*body{
+	background-image: url("../../img/plogueo/bosque.jpg");	
+  background-repeat: no-repeat;
+	background-position: center;
+	background-size: 2000px 2000px;
+  background-color: rgba(0,0,0,0.6);
+}*/
+
+
+
+.bordes{	
+	border-style: solid;
+    border-color: #28a745;    
+    height:100%;
+    
+}
+
+header{
+	height:100%;
+
+}
+
+footer li {
+color:white;
+ list-style:none;
+}

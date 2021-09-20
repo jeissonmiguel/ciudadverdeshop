@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
+
+*{
+  box-sizing: border-box; 
+  font-family: 'Chela One', cursive;
+  color: black; 
+  background-size:100%;
+  font-size:100%; 
+}
+
+
+/*
+@media screen and (max-width:800px) {
+  
+}
+
+}
+
+@media screen and (min-width:800px) {
+ 
+    
+}
+
+}*/
+
+/*.letra
+{
+font-size: 150%;
+color: black;
+text-transform: uppercase;
+padding: auto;
+padding: 0 0 0 0;
+height: 20px;
+font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+}
+
+.letras
+{
+font-size: 300%;
+color: black;
+text-transform: uppercase;
+padding: auto;
+padding: 0 0 0 0;
+height: 30px;
+font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+}
+*/
+section{
+  background-image: url("../../img/interfazusuario/ba1.jpg");  
+  background-repeat:repeat;
+  background-position: center;
+  background-size: 330%;
+  color: black;
+  
+}
+
+body{
+  background-image: url("../../img/interfazusuario/ba.jpg");  
+  background-repeat:repeat;
+  background-position: center;
+  background-size: 100%;
+  
+}
+.ba1, header, head,body{
+  background-image: url("../../img/interfazusuario/ba.jpg");  
+  background-repeat:repeat;
+  background-position: left;
+  background-size: 150%;
+
+}
+
+

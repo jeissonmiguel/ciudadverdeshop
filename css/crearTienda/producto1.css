@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');*/
+
+
+*{
+  box-sizing: border-box; 
+
+}
+
+@media only screen and (min-width: 800px) {
+.ajuste{
+width:100%;
+height:550px;
+padding:0% 15% 0% 15%; 
+
+}
+}	
+
+@media only screen and (max-width: 800px) {
+.ajuste{
+width:100%;
+height:450px;
+padding: 0% 1% 0% 1%;
+}
+
+section{
+padding-left:400px;
+}
+body{
+padding: 0% 2% 0% 2%;
+}
+
+}
+
+
+/*section{
+width:48%;
+display: inline-block;
+}*/
+
+body{	
+	background-image: url("../../img/interfazusuario/ba.jpg");
+	background-repeat:repeat;
+	background-position: center;
+}
+.fondo{
+	background-image: url("../../img/plogueo/perfilci.jpeg");
+    position: relative;
+	background-repeat:no-repeat;
+	background-position: center;
+}
+
+
